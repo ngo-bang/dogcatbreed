@@ -1,6 +1,3 @@
-from tkinter import *
-import tkinter as tk
-from PIL import ImageTk, Image
 import numpy as np
 import tensorflow as tf
 import cv2
